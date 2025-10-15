@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/Prep/Lore/"}
+{"dg-home":null,"dg-publish":true,"permalink":"/prep/lore/","dgPassFrontmatter":true}
 ---
 
-- [ ] [[Almanac/Locations/Meletis\|Meletis]] rumors:
+- [ ] [Meletis](Meletis.md) rumors:
      - [ ] “Ghosts linger, shades wander battlefields, and unquiet dead rise spontaneously. [[Almanac/People/Clerics\|Clerics]] call this the Dead Crisis.”
     - [ ] “The triton caravan from Olantin just set up shop in the [[Almanac/Locations/Harbor\|Harbor]]”
     - [ ] “A small crowd gathers daily on the steps of the [[Almanac/Locations/Dekatia\|Dekatia]], around a white-bearded man. He speaks about complex topics of ethics and philosophy, but he uses simple, under standable words.”
