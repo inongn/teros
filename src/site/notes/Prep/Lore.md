@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prep/lore/"}
+{"dg-home":null,"dg-publish":true,"permalink":"/prep/lore/","dgPassFrontmatter":true}
 ---
 
 - [ ] [[Almanac/Locations/Meletis\|Meletis]] rumors:
