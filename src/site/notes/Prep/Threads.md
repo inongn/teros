@@ -1,0 +1,86 @@
+---
+{"dg-publish":true,"permalink":"/prep/threads/"}
+---
+
+## Meletis
+- [ ] A classical comedy by [[Almanac/People/Metodia\|Metodia]] is performed at the [[Almanac/Locations/Phenaxicon Theater\|Phenaxicon Theater]], depicting the great hero Haktos performed by [[Almanac/People/Cois\|Cois]] battling Polukranos the Hydra.
+    - [ ] The play makes use of a new, remarkable, moving construct called the “Apo Mekhanes Theos” to represent the hydra.
+    - [ ] An [[Almanac/Statblocks/Eidolon\|Eidolon]] lost spirit imbues the Mekhanes with life, and it kills [[Almanac/People/Cois\|Cois]].
+    - [ ] The Mekhanes turns on the chorus, and the audience rises, unsure if this is part of the play. As the party rises to deal with the situation, [[Almanac/People/Metodia\|Metodia]] yells at the party to make it seem like part of the show.
+    - [ ] After the dust settles, [[Almanac/People/Bradeus\|Bradeus]] and [[Almanac/People/Chadeus\|Chadeus]] approach the party. They were in the audience and, amazed at what the party accomplished, request their help finding [[Almanac/Items/Corvus\|Corvus]], their raven construct, who flew off during the confrontation. [[Almanac/People/Bradeus\|Bradeus]] and [[Almanac/People/Chadeus\|Chadeus]] give the party a map of [[Almanac/Locations/Meletis\|Meletis]].
+- [ ] The [[Almanac/Locations/Temple of Waves\|Temple of Waves]] become full of tents selling underwater wares and the Thassa Temple erupts with events.
+    - [ ] [[Almanac/People/Esteia\|Esteia]], An aquatic animal trainer has trained a trio of hippocamps and planned a race to showcase them to potential buyers.
+    - [ ] The buyers have arrived, but one of her jockeys didn’t show up, and she needs someone to race Bubbles, the hippocamp.
+- [ ] At the streets in front of the [[Almanac/Locations/Dekatia\|Dekatia]], [[Almanac/People/Xenophiahas\|Xenophiahas]], a street philosopher, has gained a large and passionate following, and muses to his followers on the nature of life and morality.
+    - [ ] She has created a new teaching style he calls the Dialogue.
+    - [ ] Phoedetes, her student, offers 50 drachmae to adventurers who’ll engage in an entire Dialogue without resorting to violence.
+    - [ ] The philosopher welcomes them into the crowd with a smile, and engages them in the Dialogue with a simple question, “I see a weapon at your side. Do you enjoy using it to kill?”.
+    - [ ] She continues with questions like “Why do you say that?” or “Why do you think that’s true?” or “Why do you think I asked you that question?”
+    - [ ] Just as the dialogue concludes, a group of [[Almanac/Statblocks/Warrior\|Warrior]] mercenaries arrive and tell the party to get out of the way so they can “teach this old man a lesson”. They’ve been hired by the [[Almanac/Locations/Dekatia\|Dekatia]] to rid of the philosopher.
+- [ ] The [[Almanac/Locations/Hall of the Twelve\|Hall of the Twelve]] is an active crime scene. [[Almanac/People/Kleon\|Kleon]], the magistrate, is puzzled. The doors and windows are protected by wards that prevent anyone opening them from the outside at night.
+    - [ ] Although the [[Almanac/Locations/Hall of the Twelve\|Hall of the Twelve]] has several valuable works of art, the only thing missing is gold and a newly acquired statue.
+    - [ ] What’s more, the thief managed to break into the [[Almanac/Locations/Hall of the Twelve\|Hall of the Twelve]], but couldn’t or chose not to break into the mint that’s right next to it.
+    - [ ] The thieves are [[Almanac/People/Chadeus\|Chadeus]] and [[Almanac/People/Bradeus\|Bradeus]], who used a scroll of polymorph to pass one of them off as a statue.
+- [ ] At the [[Almanac/Locations/Shrine of Harvest\|Shrine of Harvest]], [[Almanac/People/Lyros\|Lyros]] is [[Almanac/People/Charis\|Charis]]’ prisoner.
+    - [ ] [[Almanac/People/Lyros\|Lyros]] was marked for death and [[Almanac/People/Charis\|Charis]], a lampad who was supposed to take his soul to the [[Almanac/Locations/Underworld\|Underworld]], chose to trap him in the Shrine.
+    - [ ] Charsis’ love has corrupted her nature, and she is fading. [[Almanac/People/Lyros\|Lyros]], meanwhile, is losing his memory.
+    - [ ] After the party arrives, a shade sent by [[Almanac/People/Erebos\|Erebos]] to punish [[Almanac/People/Charis\|Charis]] arrives.
+    - [ ] At the [[Almanac/Locations/Grand Temple of the Sun\|Grand Temple of the Sun]], [[Almanac/People/Brotana\|Brotana]] has perfected a ritual to reunite the [[Almanac/Statblocks/Eidolon\|Eidolon]] and the [[Almanac/Statblocks/Returned\|Returned]] of her deceased wife [[Almanac/People/Lysara\|Lysara]].
+    - [ ] She asks the party to retrieve the [[Almanac/Statblocks/Eidolon\|Eidolon]] and the [[Almanac/Statblocks/Returned\|Returned]], who were seen at the beach and the graveyard, respectively.
+    - [ ] Before [[Almanac/People/Lysara\|Lysara]] is completed, [[Almanac/People/Erebos\|Erebos]] intervenes, and demands that, if they wish to take a soul from him, a party member must pledge to become the death god’s prisoner at his temple when they die.
+- [ ] At the [[Almanac/Locations/Agorrus Theater\|Agorrus Theater]], [[Almanac/People/Maro\|Maro]], a playwright, has achieved success putting on comedy representations of classic myths.
+    - [ ] Her star actor, [[Almanac/People/The Viper\|The Viper]], died in a botched stunt. He has now come back as a [[Almanac/Statblocks/Returned\|Returned]], demanding to finish the performance.
+- [ ] At the [[Almanac/Locations/Temple of Knowledge\|Temple of Knowledge]], [[Almanac/People/Lyros\|Lyros]] secretly prayed to Phenax for inspiration, but, since the trickster god has no temple in [[Almanac/Locations/Meletis\|Meletis]], [[Almanac/People/The Bard\|The Bard]] made his offering in Ephara’s temple.
+    - [ ] The silver are the [[Almanac/People/Gods\|Gods]] fighting over credit. [[Almanac/People/Euneas\|Euneas]],
+    - [ ] [[Almanac/People/Euneas\|Euneas]], Ephara’s priest, asks the party to mediate: should the creation belong to Ephara, Phenax, or to mortal ingenuity alone?
+- [ ] At the [[Almanac/Locations/Temple of Victory\|Temple of Victory]], [[Almanac/People/Nestor\|Nestor]] awaits challengers.
+    - [ ] The competition consists of chariot racing, gladiatorial combat, and pentathlon.
+    - [ ] [[Almanac/People/Cliros\|Cliros]] attempts to bribe the party to throw the fight so gamblers profit. The adventurers must choose whether to fight fair, rig the match, or find a clever third path.
+    - [ ] Before the match, a statue of Iroas in the arena cracks and bleeds. The omen unsettles the crowd.
+    - [ ] [[Almanac/People/Nestor\|Nestor]] asks the party to interpret the sign: is it a blessing, a curse, or a warning? Their words may calm the audience—or spark a riot of fear in the middle of the games.
+- [ ] At the [[Almanac/Locations/Agora\|Agora]], [[Almanac/People/Zagreus\|Zagreus]] cries out praying for the [[Almanac/People/Gods\|Gods]] to send heroes to help him mend his broken heart.
+    - [ ] He declared his love to Delico, but he was rejected, and now his love does not even look at him when he visits.
+    - [ ] He wants to apologize, but knows Delico will only listen to whoever can best him in combat.
+    - [ ] He is at the [[Almanac/Locations/Temple of Victory\|Temple of Victory]], where he works, and can be recognized by his unmistakable golden mane.
+    - [ ] Delico is a [[Almanac/Statblocks/Nyxborn Beast\|Nyxborn Beast]] lion.
+- [ ] At the [[Almanac/Locations/Reverent Bastion\|Reverent Bastion]], a crowd gathers as [[Almanac/People/Liron\|Liron]] wanders arguing with himself.
+    - [ ] He recently received two visions from the [[Almanac/People/Gods\|Gods]] regarding his son, who is stationed as a stration in an Akroan outpost in Phoberos. In both visions, the outpost is attacked by minotaurs from Skophos.
+    - [ ] In Heliod’s vision, his son dies, but his colleagues succesfully defend the outpost. In [[Almanac/People/Erebos\|Erebos]]’ vision, his son lives, but everyone else dies.
+    - [ ] Whichever god [[Almanac/People/Liron\|Liron]] pledges himself to will have their vision happen.
+    - [ ] When [[Almanac/People/Liron\|Liron]] makes his choice, he is attacked by either a [[Shadow\|Shadow]] or a [[Griffon\|Griffon]], depending on which god he chose.
+- [ ] At the [[Almanac/Locations/Nyx Observatory\|Nyx Observatory]], restless spirits are after [[Almanac/People/Callaphe\|Callaphe]]’s Starmap, the heart of the Observatory’s mechanism.
+- [ ] At the [[Almanac/Locations/Nyx Observatory\|Nyx Observatory]], [[Almanac/People/Febea\|Febea]] prophesies the party will deal with the Dead Crisis by journeying into the [[Almanac/Locations/Underworld\|Underworld]] through [[Almanac/Locations/The Maw\|The Maw]], not before carrying out great Labors:
+    - [ ] Retrieve the seed of a plant never before seen in the mainland.
+    - [ ] Rekindle a [[Almanac/Items/Shard of Light\|Shard of Light]] in a place of darkness.
+    - [ ] Trace [[Almanac/People/Callaphe\|Callaphe]]'s steps towards a goodwilled community in need of aid.
+    - [ ] Find the heart of a godling.
+    - [ ] Steal the robe of Athreos. 
+# Abbey of Light
+- [ ] When the party rekindles the [[Almanac/Items/Shard of Light\|Shard of Light]], the [[Almanac/Statblocks/Returned\|Returned]] Fleet siege the [[Almanac/Locations/Abbey of Light\|Abbey of Light]]
+    - [ ] Each room in the [[Almanac/Locations/Abbey of Light\|Abbey of Light]] is swarmed by 1d4 [[Almanac/Statblocks/Returned\|Returned]] mariners
+## Satyr Grove
+- [ ] [[Almanac/People/Nastalia\|Nastalia]] announces her intention to host a Bakkaeia in the [[Almanac/Locations/Satyr Grove\|Satyr Grove]]
+    - [ ] Guests are crowned with lotus garlands. Each garland has a [[Almanac/Items/Lotus Seed\|Lotus Seed]] attached to it.
+    - [ ] [[Almanac/People/Atribus\|Atribus]] introduces himself as the character’s guide to the party and gives them a tour of the [[Almanac/Locations/Satyr Grove\|Satyr Grove]].
+- [ ] The [[Almanac/Locations/Satyr Grove\|Satyr Grove]] hosts games, each costing a seed.
+    - [ ] Wine of the [[Almanac/People/Gods\|Gods]]: Compete in a table game where you throw your seed at the oponent’s wine cup to get them to drink
+    - [ ] Cup Dancing: your seed goes inside an upside down cup. The host shuffles it with two other cups. Guess correctly which has the seed.
+    - [ ] Petteia: strategy board game like checkers played with the seed
+    - [ ] Frenzy Dance: A wild dance contest while balancing the seed o a platter in the head
+    - [ ] Seed Throwing: throw a seed into a set of small clay amphora, aiming for the one in the middle.
+- [ ] The [[Almanac/Locations/Satyr Grove\|Satyr Grove]] hosts shows, each costing a seed.
+    - [ ] Fire Juggling
+    - [ ] Poetry Demonstration
+    - [ ] Bull-Leaping
+    - [ ] Masked Tragedy
+    - [ ] The Hornless Satyr
+- [ ] The [[Almanac/Locations/Satyr Grove\|Satyr Grove]] hosts a gift tent, each consting a seed.
+- [ ] The [[Almanac/Locations/Satyr Grove\|Satyr Grove]] hosts a fortune-telling tent where [[Almanac/People/Nastalia\|Nastalia]] answers any question the party may have, each costing a seed.
+    - [ ] When the party enters the tent, they get an eeriee, chill feeling.
+    - [ ] When the party attempts to leave the tent, [[Almanac/People/Nastalia\|Nastalia]] claims ownership of their souls.
+## Grung Village
+- [ ] The [[Almanac/People/Grungs\|Grungs]] in the [[Almanac/Locations/Grung Village\|Grung Village]] mistake the party for [[Almanac/People/Callaphe\|Callaphe]]
+    - [ ] [[Almanac/People/Plopos\|Plopos]] asks the party deal with the [[Almanac/People/Cyclopes\|Cyclopes]] in the [[Almanac/Locations/Resonant Cavern\|Resonant Cavern]] as [[Almanac/People/Callaphe\|Callaphe]] once did
+## Dakra Isles
+- [ ] As the party explores the [[Almanac/Locations/Dakra Isles\|Dakra Isles]] and learns about the myth of [[Almanac/People/Ainoe\|Ainoe]], the traces of the goddess in [[Almanac/Items/Callaphe's Starmap\|Callaphe's Starmap]] absorb the memories until she manifests through [[Almanac/Items/Corvus\|Corvus]].
+    - [ ] Once the party has visited all of the islands and restored the goddess, the [[Almanac/People/Ainoe\|Ainoe]] Constellation reappears in the sky.
