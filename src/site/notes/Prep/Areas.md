@@ -1,52 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/prep/areas/"}
+{"dg-publish":true,"permalink":"/prep/areas/","dgPassFrontmatter":true}
 ---
 
 ## Abbey of Light
-- [ ] `1.[[Almanac/Items/Obsidian\|Obsidian]] Beach` Stark white sand, glittering with small, [[Almanac/Items/Obsidian\|Obsidian]] shards. A [[Almanac/Statblocks/Nyxborn Beast\|Nyxborn Beast]] Peryton lurks.
+- [ ] `1.[[Diario/Items/Obsidian\|Obsidian]] Beach` Stark white sand, glittering with small, [[Diario/Items/Obsidian\|Obsidian]] shards. A [[Diario/Statblocks/Nyxborn Beast\|Nyxborn Beast]] Peryton lurks.
 - [ ] `2.Entry Gallery` Heliod murals and broken statues.
-- [ ] `3.Holy Museum` Contains clues to the abbey's past as a Moon Temple to [[Almanac/People/Ainoe\|Ainoe]].
+- [ ] `3.Holy Museum` Contains clues to the abbey's past as a Moon Temple to [[Diario/Personas/Ainoe\|Ainoe]].
 - [ ] `4.Abbey Mess` Half eaten meal, discarded weapons, corpses
 - [ ] `5.Abbey Dorms` 
     - [ ]  `a.Dorm` Corpses. 
-    - [ ]  `b.Dorm` Diary of the pilgrims detailed the [[Almanac/Statblocks/Returned\|Returned]] fleet siege.
-- [ ] `6.Abbey Kitchen` 1d6 [[Almanac/Statblocks/Mage\|Mage]] Shadows.
-- [ ] `7.Center Area` Heliod statue with moonstone (the [[Almanac/Items/Shard of Light\|Shard of Light]]) in its left eye.
+    - [ ]  `b.Dorm` Diary of the pilgrims detailed the [[Diario/Statblocks/Returned\|Returned]] fleet siege.
+- [ ] `6.Abbey Kitchen` 1d6 [[Diario/Statblocks/Mage\|Mage]] Shadows.
+- [ ] `7.Center Area` Heliod statue with moonstone (the [[Diario/Items/Shard of Light\|Shard of Light]]) in its left eye.
 - [ ] `8.Meeting Rooms` 
     - [ ]  `a.Room` Old maps, religious texts, unfinished scrolls of the pilgrimage.
-    - [ ]  `b.Room` A [[Almanac/Statblocks/Swarm\|Swarm]] of Rats.
+    - [ ]  `b.Room` A [[Diario/Statblocks/Swarm\|Swarm]] of Rats.
 - [ ] `9.Prayer Chambers` 
     - [ ]  `a.Chamber` [[Treasure\|Treasure]].
-    - [ ]  `b.Chamber` A [[Almanac/Statblocks/Mimic\|Mimic]].
+    - [ ]  `b.Chamber` A [[Diario/Statblocks/Mimic\|Mimic]].
     - [ ]  `c.Chamber` Empty.
     - [ ]  `d.Chamber` [[Treasure\|Treasure]].
 - [ ] `10.Crypts` 
     - [ ]  `a.Crypt` Empty.
-    - [ ]  `b.Crypt` Full evidence of [[Almanac/People/Ainoe\|Ainoe]] worship.
+    - [ ]  `b.Crypt` Full evidence of [[Diario/Personas/Ainoe\|Ainoe]] worship.
     - [ ]  `c.Crypt` [[Treasure\|Treasure]].
     - [ ]  `d.Crypt` Empty.
     - [ ]  `e.Crypt` [[Treasure\|Treasure]].
-    - [ ]  `f.Crypt` 1d6 [[Almanac/Statblocks/Mage\|Mage]] Shadows.
-- [ ] `11. Rooftop` Statues of Heroes and overgrown gardens. [[Almanac/Statblocks/Nyxborn Beast\|Nyxborn Beast]] Peryton attacks again. Obelisk needs the [[Almanac/Items/Shard of Light\|Shard of Light]] to rekindle itself.
+    - [ ]  `f.Crypt` 1d6 [[Diario/Statblocks/Mage\|Mage]] Shadows.
+- [ ] `11. Rooftop` Statues of Heroes and overgrown gardens. [[Diario/Statblocks/Nyxborn Beast\|Nyxborn Beast]] Peryton attacks again. Obelisk needs the [[Diario/Items/Shard of Light\|Shard of Light]] to rekindle itself.
 ## Satyr Grove
 - [ ] `1.[[Nastalia]]'s Tent` 
 - [ ] `2.Gift Tent` 
 - [ ] `3.Performance Tent` 
 ## Resonant Cavern
-- [ ] `1.Waterfall Entrance` 1d4 [[Almanac/Statblocks/Nymph\|Nymph]] Naiads.
-- [ ] `2.Shallow Pool` An [[Almanac/Statblocks/Ooze\|Ooze]]
-- [ ] `3.Scrying Pool` [[Almanac/People/Mogaros\|Mogaros]].
-- [ ] `4.[[Almanac/People/Cyclopes\|Cyclopes]]' Den` 1d6 [[Almanac/Statblocks/Warrior\|Warrior]] loyalist [[Almanac/People/Cyclopes\|Cyclopes]].
+- [ ] `1.Waterfall Entrance` 1d4 [[Diario/Statblocks/Nymph\|Nymph]] Naiads.
+- [ ] `2.Shallow Pool` An [[Diario/Statblocks/Ooze\|Ooze]]
+- [ ] `3.Scrying Pool` [[Diario/Personas/Mogaros\|Mogaros]].
+- [ ] `4.[[Diario/Personas/Cyclopes\|Cyclopes]]' Den` 1d6 [[Diario/Statblocks/Warrior\|Warrior]] loyalist [[Diario/Personas/Cyclopes\|Cyclopes]].
 - [ ] `5.Cave Niche` [[Treasure\|Treasure]].
 - [ ] `6.Calcified Giant Scorpion` Empty.
-- [ ] `7.Chieftain's Retreat` [[Almanac/People/Brontakles\|Brontakles]].
+- [ ] `7.Chieftain's Retreat` [[Diario/Personas/Brontakles\|Brontakles]].
 - [ ] `8.Calcified Cyclops` Empty.
-- [ ] `9.[[Almanac/People/Callaphe\|Callaphe]]'s Pathway` [[Prep/Lore\|Lore]] of how [[Callaphe]] defeated the cyclops and the [[Almanac/Items/Hero's Song\|Hero's Song]].
-- [ ] `10. Beast Stable` [[Almanac/People/Polkronos\|Polkronos]] with a [[Almanac/Statblocks/Nyxborn Beast\|Nyxborn Beast]] Basilisk
+- [ ] `9.[[Diario/Personas/Callaphe\|Callaphe]]'s Pathway` [[Lore\|Lore]] of how [[Callaphe]] defeated the cyclops and the [[Diario/Items/Hero's Song\|Hero's Song]].
+- [ ] `10. Beast Stable` [[Diario/Personas/Polkronos\|Polkronos]] with a [[Diario/Statblocks/Nyxborn Beast\|Nyxborn Beast]] Basilisk
 - [ ] `11. Grung Entrance` Small path for ceremonial sacrifices.
-- [ ] `12. Calcified Trophy Chamber` Full of [[Almanac/People/Grungs\|Grungs]] and animals turned to stone.
+- [ ] `12. Calcified Trophy Chamber` Full of [[Diario/Personas/Grungs\|Grungs]] and animals turned to stone.
 - [ ] `13. Shallow Pool` [[Treasure\|Treasure]].
-- [ ] `14. Hydra Den` 1d6 [[Almanac/Statblocks/Warrior\|Warrior]] traitor [[Cyclopes]] led by [[Almanac/People/Eurypha\|Eurypha]] and the [[Almanac/Statblocks/Hydra\|Hydra]].
+- [ ] `14. Hydra Den` 1d6 [[Diario/Statblocks/Warrior\|Warrior]] traitor [[Cyclopes]] led by [[Diario/Personas/Eurypha\|Eurypha]] and the [[Diario/Statblocks/Hydra\|Hydra]].
 - [ ] `15. Shallow Pool` [[Treasure\|Treasure]].
 - [ ] `16. Preparation Room` [[Treasure\|Treasure]].
 ## Volcano Temple
@@ -54,15 +54,15 @@
 - [ ] `2.Entrance` 
 - [ ] `3.South Hall. ` Niches with dioramas
     - [ ]  `a.Niche` Purphoros Forging Petros
-    - [ ]  `b.Niche` Purphoros grabbing a star from the [[Almanac/People/Ainoe\|Ainoe]] Constellation
+    - [ ]  `b.Niche` Purphoros grabbing a star from the [[Diario/Personas/Ainoe\|Ainoe]] Constellation
     - [ ]  `c.Niche` Purhporos putting the star in Petros
     - [ ]  `d.Niche` Purphoros Worshippers adoring Petros
-- [ ] `4.Main Hall West` Statues of Thassa, Heliod, Nylea, [[Almanac/People/Erebos\|Erebos]] and [[Almanac/People/Ainoe\|Ainoe]]
+- [ ] `4.Main Hall West` Statues of Thassa, Heliod, Nylea, [[Diario/Personas/Erebos\|Erebos]] and [[Diario/Personas/Ainoe\|Ainoe]]
 - [ ] `5.Priest's Quarters` 
     - [ ]  `a.Quarter` Empty.
     - [ ]  `b.Quarter` Charred Skeleton grasping [[Treasure\|Treasure]].
-    - [ ]  `c.Quarter` Architect's Room with the [[Almanac/Items/Temple Map\|Temple Map]].
-    - [ ]  `d.Quarter` 1d6 [[Almanac/Statblocks/Warrior\|Warrior]] Zombies
+    - [ ]  `c.Quarter` Architect's Room with the [[Diario/Items/Temple Map\|Temple Map]].
+    - [ ]  `d.Quarter` 1d6 [[Diario/Statblocks/Warrior\|Warrior]] Zombies
     - [ ]  `e.Quarter` [[Treasure\|Treasure]].
     - [ ]  `f.Quarter` [[Treasure\|Treasure]].
 - [ ] `6.Temple Mess` Charred skeletons.
@@ -74,64 +74,64 @@
     - [ ]  `c.Quarter` Empty.
     - [ ]  `d.Quarter` Stone tablet confirming the story told in the entrance hall dioramas.
     - [ ]  `e.Quarter` [[Treasure\|Treasure]].
-    - [ ]  `f.Shrine` [[Almanac/Statblocks/Warrior\|Warrior]] Bronze Golem statue.
-    - [ ]  `g.Quarter` A [[Almanac/Statblocks/Swarm\|Swarm]] of Bats.
+    - [ ]  `f.Shrine` [[Diario/Statblocks/Warrior\|Warrior]] Bronze Golem statue.
+    - [ ]  `g.Quarter` A [[Diario/Statblocks/Swarm\|Swarm]] of Bats.
     - [ ]  `h.Quarter` Empty.
-- [ ] `10. West Hall` A [[Almanac/Statblocks/Swarm\|Swarm]] of Fireskulls.
-- [ ] `11. Purphoros Statue` Missing his hammer. Putting the [[Almanac/Items/Heart of the First Star\|Heart of the First Star]] back opens the door in the Forge Entrance
+- [ ] `10. West Hall` A [[Diario/Statblocks/Swarm\|Swarm]] of Fireskulls.
+- [ ] `11. Purphoros Statue` Missing his hammer. Putting the [[Diario/Items/Heart of the First Star\|Heart of the First Star]] back opens the door in the Forge Entrance
 - [ ] `12. Temple Nook` [[Treasure\|Treasure]].
-- [ ] `13. Ore Chamber` A [[Almanac/Statblocks/Nyxborn Beast\|Nyxborn Beast]] Manticore.
-- [ ] `14. Ore Storage` The [[Almanac/Items/Heart of the First Star\|Heart of the First Star]].
+- [ ] `13. Ore Chamber` A [[Diario/Statblocks/Nyxborn Beast\|Nyxborn Beast]] Manticore.
+- [ ] `14. Ore Storage` The [[Diario/Items/Heart of the First Star\|Heart of the First Star]].
 - [ ] `15. Forge Entrance` Locked, needs to solve Purphoros statue puzzle.
 - [ ] `16. Forges` 
     - [ ]  `a.Forge` Empty
     - [ ]  `b.Forge` [[Treasure\|Treasure]].
     - [ ]  `c.Forge` Depiction of Purphoros and Petros.
-    - [ ]  `d.Forge` A Forge [[Almanac/Statblocks/Mimic\|Mimic]].
-    - [ ]  `e.Forge` A [[Almanac/Statblocks/Swarm\|Swarm]] of Fireskulls.
+    - [ ]  `d.Forge` A Forge [[Diario/Statblocks/Mimic\|Mimic]].
+    - [ ]  `e.Forge` A [[Diario/Statblocks/Swarm\|Swarm]] of Fireskulls.
 - [ ] `17. Main Hall East` 
-- [ ] `18. Storage Room` An [[Almanac/Statblocks/Ooze\|Ooze]].
-- [ ] `19. Library Balcony South` 1d6 [[Almanac/Statblocks/Nymph\|Nymph]] Oreads.
+- [ ] `18. Storage Room` An [[Diario/Statblocks/Ooze\|Ooze]].
+- [ ] `19. Library Balcony South` 1d6 [[Diario/Statblocks/Nymph\|Nymph]] Oreads.
 - [ ] `20. Library Balcony North` 
 - [ ] `21. Temple Library` Bronze hero statue hides pathway.
 - [ ] `22. Librarian's Quarters` [[Treasure\|Treasure]].
-- [ ] `23. Gas Vents` A [[Almanac/Statblocks/Nyxborn Beast\|Nyxborn Beast]] Bronze Bull.
-- [ ] `24. Sacred Forge` Petros, the [[Almanac/Statblocks/Sentinel\|Sentinel]].
+- [ ] `23. Gas Vents` A [[Diario/Statblocks/Nyxborn Beast\|Nyxborn Beast]] Bronze Bull.
+- [ ] `24. Sacred Forge` Petros, the [[Diario/Statblocks/Sentinel\|Sentinel]].
 ## Temple of Death
 - [ ] `1.Mosaic of the Heavens` Shows the 5 main constellations, plus another one.
-- [ ] `2.Temple Armory` 1d6 [[Almanac/Statblocks/Warrior\|Warrior]] Skeletons.
+- [ ] `2.Temple Armory` 1d6 [[Diario/Statblocks/Warrior\|Warrior]] Skeletons.
 - [ ] `3.Four Statues Puzzle` Statues marked 5, 7, 9, 11. Plaque says select 1. Correct answer is 9. If incorrect, combat.
 - [ ] `4.Temple Alcove` [[Treasure\|Treasure]].
-- [ ] `5.Scrying Pools` Contains message from [[Almanac/People/Ainoe\|Ainoe]]
+- [ ] `5.Scrying Pools` Contains message from [[Diario/Personas/Ainoe\|Ainoe]]
 - [ ] `6.Flood Kraken Puzzle` Room starts flooding. Kraken statue in the middle. Valves in the kraken’s 4 tentacles and its head. Star shape in the Kraken’s head. Valves must be turned in a way that draws a star.
 - [ ] `7.Chamber of Urns`  A dozen urns of different qualities. The most humble one contains [[Treasure\|Treasure]]. When one is opened, all of them crumble.
 - [ ] `8.Room` [[Treasure\|Treasure]].
 - [ ] `9.Bronze Dial Puzzle` Destroyed, door broken through
 - [ ] `10. Room` Skeletal remains.
 - [ ] `11. Arcane Tiles` Order of the moon phases in the tiles
-- [ ] `12. Temple Altar` Direct evidence of [[Almanac/People/Ainoe\|Ainoe]] worship alongside [[Almanac/People/Erebos\|Erebos]]
-- [ ] `13. Lair` A [[Almanac/Statblocks/Nyxborn Beast\|Nyxborn Beast]] Hellhound.
-- [ ] `14. Room` 1d6 [[Almanac/Statblocks/Warrior\|Warrior]] Skeletons.
+- [ ] `12. Temple Altar` Direct evidence of [[Diario/Personas/Ainoe\|Ainoe]] worship alongside [[Diario/Personas/Erebos\|Erebos]]
+- [ ] `13. Lair` A [[Diario/Statblocks/Nyxborn Beast\|Nyxborn Beast]] Hellhound.
+- [ ] `14. Room` 1d6 [[Diario/Statblocks/Warrior\|Warrior]] Skeletons.
 - [ ] `15. Temple Vault` [[Phylaskia\|Phylaskia]] guardian.
 ## Palace
-- [ ] `1.[[Palace]] Entrance` Massive Statue of [[Almanac/People/Erebos\|Erebos]]
-- [ ] `2.[[Palace]] Main Hall` Decorated pilars and scenes depicting [[Almanac/People/Erebos\|Erebos]] myths
-- [ ] `3.[[Palace]] Court` Throne in front of an [[Obsidian]] oval on the floor and [[Almanac/People/The Cupbearer\|The Cupbearer]].
+- [ ] `1.[[Palace]] Entrance` Massive Statue of [[Diario/Personas/Erebos\|Erebos]]
+- [ ] `2.[[Palace]] Main Hall` Decorated pilars and scenes depicting [[Diario/Personas/Erebos\|Erebos]] myths
+- [ ] `3.[[Palace]] Court` Throne in front of an [[Obsidian]] oval on the floor and [[Diario/Personas/The Cupbearer\|The Cupbearer]].
 - [ ] `4.[[Palace]] Chapels` 
 - [ ] `5.[[Palace]] Stairs` 
 - [ ] `6.[[Palace]] Altar` 
-- [ ] `7.Indoors Balcony` Grand Harp made of bones and [[Almanac/People/The Bard\|The Bard]].
+- [ ] `7.Indoors Balcony` Grand Harp made of bones and [[Diario/Personas/The Bard\|The Bard]].
 - [ ] `8.Turrets` 
-- [ ] `9.Outdoors Balcony` Looks out to the [[Almanac/Locations/Underworld\|Underworld]]
-- [ ] `10. Heroes Statues` Statues for champions of [[Almanac/People/Erebos\|Erebos]]
-- [ ] `11. Sarcophagi` Remains of [[Almanac/People/Erebos\|Erebos]]' Enemies
+- [ ] `9.Outdoors Balcony` Looks out to the [[Diario/Lugares/Underworld\|Underworld]]
+- [ ] `10. Heroes Statues` Statues for champions of [[Diario/Personas/Erebos\|Erebos]]
+- [ ] `11. Sarcophagi` Remains of [[Diario/Personas/Erebos\|Erebos]]' Enemies
     - [ ]  `a.The Champion` 
     - [ ]  `b.The Traitor` 
     - [ ]  `c.The Fiend` 
     - [ ]  `d.The Lady-in-Waiting` 
-- [ ] `12. Private Chapel` Altar with a single blue flame. [[Almanac/People/Erebos\|Erebos]] awaits.
-- [ ] `13. Hall of Scholars` Library with untold knowledge about the cosmos with [[Almanac/People/The Scribe\|The Scribe]].
+- [ ] `12. Private Chapel` Altar with a single blue flame. [[Diario/Personas/Erebos\|Erebos]] awaits.
+- [ ] `13. Hall of Scholars` Library with untold knowledge about the cosmos with [[Diario/Personas/The Scribe\|The Scribe]].
 - [ ] `14. Meeting Chamber` Large ruby table with two seats
 - [ ] `15. [[Ainoe]] Statue` 
-- [ ] `16. [[Palace]] Vault` A [[Almanac/Statblocks/Nyxborn Beast\|Nyxborn Beast]] Cerberus.
+- [ ] `16. [[Palace]] Vault` A [[Diario/Statblocks/Nyxborn Beast\|Nyxborn Beast]] Cerberus.
 - [ ] `17. Escape Tunnel` 
