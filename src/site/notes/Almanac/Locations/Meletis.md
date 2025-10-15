@@ -1,8 +1,8 @@
 ---
-{"parent":"[[Theros]]","type":"location","dg-home":null,"dg-publish":true,"permalink":"/almanac/locations/meletis/","dgPassFrontmatter":true}
+{"parent":"[[Theros]]","type":"location","dg-home":null,"dg-publish":true,"dg-path":"asdfasdf.md","permalink":"/asdfasdf/","dgPassFrontmatter":true}
 ---
 
-items
+:smile:
 <p><span><div data-callout-metadata="" data-callout-fold="" data-callout="info" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Info</div></div><div class="callout-content">
 <p dir="auto"><strong>Location:</strong> <a data-tooltip-position="top" aria-label="Almanac/Locations/Theros.md" data-href="Almanac/Locations/Theros.md" href="Almanac/Locations/Theros.md" class="internal-link" target="_blank" rel="noopener nofollow">Theros</a></p>
 </div></div></span></p><h3><span>Locations</span></h3><p><span><ul>
