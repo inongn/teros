@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Almanac/Locations/Meletis/"}
+{"parent":"[[Theros]]","type":"location","dg-home":null,"dg-publish":true,"permalink":"/almanac/locations/meletis/","dgPassFrontmatter":true}
 ---
 
 items
