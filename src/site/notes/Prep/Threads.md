@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prep/threads/"}
+{"dg-publish":true,"permalink":"/prep/threads/","dgPassFrontmatter":true}
 ---
 
 ## Meletis
