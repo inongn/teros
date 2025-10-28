@@ -14,4 +14,10 @@ text-decoration:none !important;
 
 ul.task-list {
     padding-left: 0px !important;
-}}
+}
+    
+.task-list-item[data-task=x], .task-list-item[data-task=X] {
+    color: var(--text-normal) !important;
+}
+
+}
