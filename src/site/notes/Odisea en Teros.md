@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/odisea-en-teros/","tags":["gardenEntry"]}
+{"dg-home":true,"dg-publish":true,"dg-publish-dm":true,"permalink":"/odisea-en-teros/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ¡Bienvenido a Teros!
@@ -48,20 +48,87 @@ Este es nuestro sitio de referencia para la campaña. Aquí podrás encontrar lo
 { .block-language-dataview}
 ## Mapa
 
-```leaflet  
-id: Meletis
-image: https://i.imgur.com/qkoMqpl.jpeg
-bounds: [[0,0], [2550, 3300]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
-height: 550px
-width: 100%
-lat: 1275 ### To center the map, make this half of the map height.  
-long: 1650 ### To center the map, make this half of the map width.  
-minZoom: -2.3 ### Controls how far away from the map you can zoom out. Hover over the target icon to see the current level.  
-maxZoom: 2 ### Controls how far towards the map you can zoom in. Hover over the target icon to see the current level.  
-defaultZoom: -2.2 ### Sets the default zoom level when the map loads. Hover over the target icon to see the current level.  
-zoomDelta: 0.5 ### Adjust how much the zoom changes when you zoom in or out.  
-unit: mi ### The value displayed when measuring so you know what type of unit is being measure.  
-scale: 1 ### Real units/px (resolution) of your map  
-recenter: false  
-darkmode: false ### marker
-```
+<html>
+<head>
+    <title>My Custom Image Map</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <style>
+        /* Set the map container size */
+        #map { height: 650px; width: 100%; }
+        
+        /* Optional: Hide Leaflet attribution on non-tiled maps */
+        .leaflet-control-attribution { display: none; }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+<script>
+        // *** CONFIGURATION ***
+        // 1. Define the URL of your custom image
+        var imageUrl = 'https://i.imgur.com/qkoMqpl.jpeg', 
+            
+            // 2. Define the exact dimensions (width x height) of your image in pixels
+            // Note: imageWidth=3300, imageHeight=2550 seems correct based on the Imgur image dimensions (width > height).
+            imageWidth = 3300,
+            imageHeight = 2550,
+
+            // 3. Define the bounding box for the image (top-left and bottom-right corners).
+            imageBounds = [[0, 0], [imageHeight, imageWidth\|0, 0], [imageHeight, imageWidth]];
+
+        // *** LEAFLET SETUP ***
+
+        // Initialize the map with a simple, non-geographical CRS
+        var map = L.map('map', {
+            crs: L.CRS.Simple,
+            minZoom: -2, // Allows zooming out to see the whole image
+            maxZoom: 2,  // Allows zooming in
+        });
+
+        // Set the map view to show the entire image bounds
+        map.fitBounds(imageBounds);
+
+        // Add the image to the map
+        L.imageOverlay(imageUrl, imageBounds).addTo(map);
+
+        // *** MARKER DATA & PLACEMENT ***
+
+        // 4. Update the marker data. Coordinates are [Y, X] in pixels 
+var markers = [
+[769.8035, 1264.3069, "Teatro Fenaxicón", "https://teros.vercel.app/lugares/meletis/teatro-fenaxicon/"],
+[1841.3334, 3020.0000, "Gran Estadio", "https://teros.vercel.app/lugares/meletis/gran-estadio/"],
+[1222.1162, 1955.8574, "Dekatia", "https://teros.vercel.app/lugares/meletis/dekatia/"],
+[935.8558, 1669.3613, "Templo del Conocimiento", "https://teros.vercel.app/lugares/meletis/templo-del-del-conocimiento/"],
+[1265.0140, 1443.9120, "Ágora", "https://teros.vercel.app/lugares/meletis/agora/"],
+[620.8333, 313.6666, "Gran Templo del Sol", "https://teros.vercel.app/lugares/meletis/gran-templo-del-sol/"],
+[1897.6038, 446.4951, "Bastión Reverente", "https://teros.vercel.app/lugares/meletis/bastion-reverente/"],
+[1696.3491, 292.0351, "Necrópolis", "https://teros.vercel.app/lugares/meletis/necropolis/"],
+[2447.3334, 283.3333, "Santuario de la Cosecha", "https://teros.vercel.app/lugares/meletis/santuario-de-la-cosecha/"],
+[929.1382, 968.7363, "Ministerio de los Doce", "https://teros.vercel.app/lugares/meletis/ministerio-de-los-doce/"],
+[892.6666, 2084.3333, "Templo de las Olas", "https://teros.vercel.app/lugares/meletis/templo-de-las-olas/"],
+[779.1667, 1720.5000, "Puerto", "https://teros.vercel.app/lugares/meletis/puerto/"],
+[1305.3333, 3106.0000, "Teatro Agorrus", "https://teros.vercel.app/lugares/meletis/teatro-agorrus/"],
+[2353.3334, 1439.3335, "Observatorio", "https://teros.vercel.app/lugares/meletis/observatorio/"],
+];
+
+        markers.forEach(function(markerData) {
+            var y = markerData[0];
+            var x = markerData[1];
+            var title = markerData[2];
+            var link = markerData[3];
+
+            // 1. Create the HTML content for the popup: the title as a direct link
+            var popupContent = '<a href="' + link + '" target="_top">' + title + '</a>';
+
+            L.marker([y, x])
+                .bindPopup(popupContent, {
+                    // Optional: You can set a CSS class for styling the popup if needed
+                    className: 'always-visible-popup' 
+                })
+                .addTo(map)
+                // 2. Call openPopup() immediately after adding the marker to the map.
+        });
+    </script></body>
+</html>
