@@ -1,8 +1,8 @@
 ---
-{"location":"[[Meletis]]","patron":"[[Érebos]]","description":"","dg-publish-dm":true,"dg-publish":true,"type":"Lugares","dg-path":"Lugares/Meletis/Necrópolis.md","permalink":"/lugares/meletis/necropolis/","dgPassFrontmatter":true}
+{"location":"[[Meletis]]","patron":"[[Érebos]]","description":"","image":"","dg-publish-dm":true,"dg-publish":true,"type":"Lugares","dg-path":"Lugares/Meletis/Necrópolis.md","permalink":"/lugares/meletis/necropolis/","dgPassFrontmatter":true}
 ---
 
 <p><span><div data-callout-metadata="" data-callout-fold="" data-callout="info" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Info</div></div><div class="callout-content">
 <p dir="auto"><strong>Deidad:</strong> <a data-tooltip-position="top" aria-label="Personas/Érebos.md" data-href="Personas/Érebos.md" href="Personas/Érebos.md" class="internal-link" target="_blank" rel="noopener nofollow">Érebos</a><br>
 <strong>Locación:</strong> <a data-tooltip-position="top" aria-label="Lugares/Meletis.md" data-href="Lugares/Meletis.md" href="Lugares/Meletis.md" class="internal-link" target="_blank" rel="noopener nofollow">Meletis</a></p>
-</div></div></span></p>
+</div></div></span></p><p><ul class="dataview dataview-ul dataview-result-list-root-ul"><li class="dataview-result-list-li"><span>La <a data-tooltip-position="top" aria-label="Lugares/Necrópolis" data-href="Lugares/Necrópolis" href="Lugares/Necrópolis" class="internal-link" target="_blank" rel="noopener nofollow">Necrópolis</a> de la polis es un cementerio con un templo a <a data-tooltip-position="top" aria-label="Personas/Érebos" data-href="Personas/Érebos" href="Personas/Érebos" class="internal-link" target="_blank" rel="noopener nofollow">Érebos</a>.</span></li></ul></p>
