@@ -11,13 +11,29 @@ Este es nuestro sitio de referencia para la campaña. Aquí podrás encontrar lo
 | [[Sesiones/Sesión 01\|Sesión 01]] | ¡La aventura comienza! Nuestras heroínas se conocen y exploran Meletis. |
 
 { .block-language-dataview}
+
+---
+
 ## Meletis
-<iframe 
-    src="https://inongn.github.io/teros-map" 
-    width="100%" 
-    height="666px" 
-    frameborder="0"
-></iframe>
+<iframe src="https://inongn.github.io/teros-map" width="100%" height="666px" frameborder="0"></iframe>
+
+---
+
+## Personas
+| File                                 | Description               |
+| ------------------------------------ | ------------------------- |
+| [[Personas/Bradeus\|Bradeus]]     | Humano Estudiante (él)    |
+| [[Personas/Calafe\|Calafe]]       | Humana Marinera (élla)    |
+| [[Personas/Chadeus\|Chadeus]]     | Leonido Estudiante (él)   |
+| [[Personas/Cliros\|Cliros]]       | Leonido Magistrado (él)   |
+| [[Personas/Cois\|Cois]]           | Humano Actor (él)         |
+| [[Personas/La Víbora\|La Víbora]] | Humano Actor (él)         |
+| [[Personas/Maro\|Maro]]           | Humano Dramaturgo (él)    |
+| [[Personas/Metodia\|Metodia]]     | Humana Dramaturga (élla)  |
+| [[Personas/Xenofia\|Xenofia]]     | Humana Filósofa (élla)    |
+| [[Personas/Zagreo\|Zagreo]]       | Humano Bibliotecario (él) |
+
+{ .block-language-dataview}
 ## Dioses
 | File                                 | Description                  |
 | ------------------------------------ | ---------------------------- |
@@ -37,20 +53,5 @@ Este es nuestro sitio de referencia para la campaña. Aquí podrás encontrar lo
 | [[Personas/Nilea\|Nilea]]         | Diosa de la Caza (élla)      |
 | [[Personas/Pórforo\|Pórforo]]     | Dios de la Forja (él)        |
 | [[Personas/Talasa\|Talasa]]       | Diosa de la Sabiduría (élla) |
-
-{ .block-language-dataview}
-## Personas
-| File                                 | Description               |
-| ------------------------------------ | ------------------------- |
-| [[Personas/Bradeus\|Bradeus]]     | Humano Estudiante (él)    |
-| [[Personas/Calafe\|Calafe]]       | Humana Marinera (élla)    |
-| [[Personas/Chadeus\|Chadeus]]     | Leonido Estudiante (él)   |
-| [[Personas/Cliros\|Cliros]]       | Leonido Magistrado (él)   |
-| [[Personas/Cois\|Cois]]           | Humano Actor (él)         |
-| [[Personas/La Víbora\|La Víbora]] | Humano Actor (él)         |
-| [[Personas/Maro\|Maro]]           | Humano Dramaturgo (él)    |
-| [[Personas/Metodia\|Metodia]]     | Humana Dramaturga (élla)  |
-| [[Personas/Xenofia\|Xenofia]]     | Humana Filósofa (élla)    |
-| [[Personas/Zagreo\|Zagreo]]       | Humano Bibliotecario (él) |
 
 { .block-language-dataview}
