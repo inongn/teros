@@ -32,7 +32,6 @@ Este es nuestro sitio de referencia para la campaña. Aquí podrás encontrar lo
 | [[Personas/Zagreo\|Zagreo]]       | Humano Bibliotecario (él) |
 
 { .block-language-dataview}
-
 ## Dioses
 | File                                 | Description                  |
 | ------------------------------------ | ---------------------------- |
