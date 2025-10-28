@@ -48,54 +48,25 @@ Este es nuestro sitio de referencia para la campaña. Aquí podrás encontrar lo
 { .block-language-dataview}
 ## Mapa
 
-<html>
-<head>
-    <title>My Custom Image Map</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-    <style>
-        /* Set the map container size */
-        #map { height: 650px; width: 100%; }
-        
-        /* Optional: Hide Leaflet attribution on non-tiled maps */
-        .leaflet-control-attribution { display: none; }
-    </style>
-</head>
-<body>
-    <div id="map"></div>
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<style>
+#map { height: 650px; width: 100%; }
+.leaflet-control-attribution { display: none; }
+</style>
+<div id="map"></div>
 <script>
-        // *** CONFIGURATION ***
-        // 1. Define the URL of your custom image
-        var imageUrl = 'https://i.imgur.com/qkoMqpl.jpeg', 
-            
-            // 2. Define the exact dimensions (width x height) of your image in pixels
-            // Note: imageWidth=3300, imageHeight=2550 seems correct based on the Imgur image dimensions (width > height).
-            imageWidth = 3300,
-            imageHeight = 2550,
-
-            // 3. Define the bounding box for the image (top-left and bottom-right corners).
-            imageBounds = [[0, 0], [imageHeight, imageWidth\|0, 0], [imageHeight, imageWidth]];
-
-        // *** LEAFLET SETUP ***
-
-        // Initialize the map with a simple, non-geographical CRS
-        var map = L.map('map', {
-            crs: L.CRS.Simple,
-            minZoom: -2, // Allows zooming out to see the whole image
-            maxZoom: 2,  // Allows zooming in
-        });
-
-        // Set the map view to show the entire image bounds
-        map.fitBounds(imageBounds);
-
-        // Add the image to the map
-        L.imageOverlay(imageUrl, imageBounds).addTo(map);
-
-        // *** MARKER DATA & PLACEMENT ***
-
-        // 4. Update the marker data. Coordinates are [Y, X] in pixels 
+var imageUrl = 'https://i.imgur.com/qkoMqpl.jpeg', 
+imageWidth = 3300,
+imageHeight = 2550,
+imageBounds = [[0, 0], [imageHeight, imageWidth\|0, 0], [imageHeight, imageWidth]];
+var map = L.map('map', {
+crs: L.CRS.Simple,
+minZoom: -2, // Allows zooming out to see the whole image
+maxZoom: 2,  // Allows zooming in
+});
+map.fitBounds(imageBounds);
+L.imageOverlay(imageUrl, imageBounds).addTo(map);
 var markers = [
 [769.8035, 1264.3069, "Teatro Fenaxicón", "https://teros.vercel.app/lugares/meletis/teatro-fenaxicon/"],
 [1841.3334, 3020.0000, "Gran Estadio", "https://teros.vercel.app/lugares/meletis/gran-estadio/"],
@@ -112,23 +83,16 @@ var markers = [
 [1305.3333, 3106.0000, "Teatro Agorrus", "https://teros.vercel.app/lugares/meletis/teatro-agorrus/"],
 [2353.3334, 1439.3335, "Observatorio", "https://teros.vercel.app/lugares/meletis/observatorio/"],
 ];
-
-        markers.forEach(function(markerData) {
-            var y = markerData[0];
-            var x = markerData[1];
-            var title = markerData[2];
-            var link = markerData[3];
-
-            // 1. Create the HTML content for the popup: the title as a direct link
-            var popupContent = '<a href="' + link + '" target="_top">' + title + '</a>';
-
-            L.marker([y, x])
-                .bindPopup(popupContent, {
-                    // Optional: You can set a CSS class for styling the popup if needed
-                    className: 'always-visible-popup' 
-                })
-                .addTo(map)
-                // 2. Call openPopup() immediately after adding the marker to the map.
-        });
-    </script></body>
-</html>
+markers.forEach(function(markerData) {
+var y = markerData[0];
+var x = markerData[1];
+var title = markerData[2];
+var link = markerData[3];
+var popupContent = '<a href="' + link + '" target="_top">' + title + '</a>';
+L.marker([y, x])
+.bindPopup(popupContent, {
+className: 'always-visible-popup' 
+})
+.addTo(map)
+});
+</script>
