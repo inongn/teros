@@ -1,5 +1,5 @@
 ---
-{"location":"[[Nix]]","role":"del Sol","species":"Dios","pronouns":"él","reference":"","description":"Dios del Sol (él)","statblock":"","patron":"","type":"Personas","dg-publish":true,"dg-publish-dm":true,"permalink":"/personas/heliodo/","dgPassFrontmatter":true}
+{"location":"[[Nix]]","role":"del Sol","species":"Dios","pronouns":"él","reference":"","description":"Dios del Sol (él)","statblock":"","patron":"","type":"Personas","dg-publish":true,"dg-publish-dm":true,"dg-path":"Dioses/Heliodo.md","permalink":"/dioses/heliodo/","dgPassFrontmatter":true}
 ---
 
 <p><span><div data-callout-metadata="" data-callout-fold="" data-callout="info" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Info</div></div><div class="callout-content">

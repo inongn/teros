@@ -1,5 +1,5 @@
 ---
-{"location":"[[Nix]]","role":"del Destino","species":"Diosa","pronouns":"élla","reference":"","description":"Diosa del Destino (élla)","statblock":"","patron":"","type":"Personas","dg-publish":true,"dg-publish-dm":true,"permalink":"/personas/clotis/","dgPassFrontmatter":true}
+{"location":"[[Nix]]","role":"del Destino","species":"Diosa","pronouns":"élla","reference":"","description":"Diosa del Destino (élla)","statblock":"","patron":"","type":"Personas","dg-publish":true,"dg-publish-dm":true,"dg-path":"Dioses/Clotis.md","permalink":"/dioses/clotis/","dgPassFrontmatter":true}
 ---
 
 <p><span><div data-callout-metadata="" data-callout-fold="" data-callout="info" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Info</div></div><div class="callout-content">

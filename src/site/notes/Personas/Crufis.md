@@ -1,5 +1,5 @@
 ---
-{"location":"[[Nix]]","role":"de los Horizontes","species":"Dios","pronouns":"él","reference":"","description":"Dios de los Horizontes (él)","statblock":"","patron":"","type":"Personas","dg-publish":true,"dg-publish-dm":true,"permalink":"/personas/crufis/","dgPassFrontmatter":true}
+{"location":"[[Nix]]","role":"de los Horizontes","species":"Dios","pronouns":"él","reference":"","description":"Dios de los Horizontes (él)","statblock":"","patron":"","type":"Personas","dg-publish":true,"dg-publish-dm":true,"dg-path":"Dioses/Crufis.md","permalink":"/dioses/crufis/","dgPassFrontmatter":true}
 ---
 
 <p><span><div data-callout-metadata="" data-callout-fold="" data-callout="info" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Info</div></div><div class="callout-content">
